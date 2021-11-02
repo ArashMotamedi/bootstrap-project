@@ -1,0 +1,15 @@
+{
+  "name": "bootstrap-project",
+  "version": "1.2.5",
+  "description": "Bootstrap a Node + TypeScript project",
+  "main": "index.js",
+  "bin": {
+    "bootstrap": "./bin/bootstrap"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
